@@ -1,5 +1,5 @@
 # windowOpener
-Open and close your window automatically, to for example, vent your bathroom after showering and then close it when your away.
+Open and close your window automatically, to for example, vent your bathroom after showering and then close it when you're away.
 
 ![windowOpener with cover](windowOpener_cover.jpg)
 
